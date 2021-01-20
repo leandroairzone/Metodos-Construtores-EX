@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\MetodoS coNstrutores EX.exe
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\MetodoS coNstrutores EX.deps.json
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\MetodoS coNstrutores EX.runtimeconfig.json
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\MetodoS coNstrutores EX.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\MetodoS coNstrutores EX.dll
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\ref\MetodoS coNstrutores EX.dll
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\bin\Debug\net5.0\MetodoS coNstrutores EX.pdb
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.dll
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\ref\MetodoS coNstrutores EX.dll
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.pdb
+C:\Users\Leandro\Desktop\MetodoS coNstrutores EX\obj\Debug\net5.0\MetodoS coNstrutores EX.genruntimeconfig.cache
